@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.be153698.css",
-    "main.js": "/static/js/main.15926f61.js",
-    "index.html": "/index.html",
-    "main.be153698.css.map": "/static/css/main.be153698.css.map",
-    "main.15926f61.js.map": "/static/js/main.15926f61.js.map"
+    "main.css": "/wars-game/static/css/main.be153698.css",
+    "main.js": "/wars-game/static/js/main.dfc2f915.js",
+    "index.html": "/wars-game/index.html",
+    "main.be153698.css.map": "/wars-game/static/css/main.be153698.css.map",
+    "main.dfc2f915.js.map": "/wars-game/static/js/main.dfc2f915.js.map"
   },
   "entrypoints": [
     "static/css/main.be153698.css",
-    "static/js/main.15926f61.js"
+    "static/js/main.dfc2f915.js"
   ]
 }
