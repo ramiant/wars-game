@@ -1,0 +1,16 @@
+.Pile {
+    width: fit-content;
+    height: 100%;
+}
+
+.ShowPileBtn {
+    flex-shrink: 0;
+    margin-right: 10px;
+    margin-bottom: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .ShowPileBtn {
+        display: none;
+    }
+}

@@ -1,0 +1,28 @@
+.GameInfo {
+    display: flex;
+    font-size: 20px;
+    padding-left: 5px;
+    margin-left: auto;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: white;
+}
+
+.GameInfo--Full {
+    margin-right: auto;
+}
+
+.DrawnCards {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.DrawnCards__Text {
+    margin-right: 20px;
+}
+
+.PlayerName {
+    margin-bottom: 5px;
+    text-align: center;
+}
